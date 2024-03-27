@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.center-flex{
+    justify-content: center;
+}
+
+.hero-box{
+    width: 40%;
+    height: 300px;
+}
+
+.col-flex{
+    flex-direction: column;
+}
+
+.section-size{
+    height: 350px;
+}
+.small-section{
+    height: 100px;
+}
+
+.bg-dark{
+    background-color: #1f2937;
+}
+
+.bg-grey{
+    background-color: #e5e7eb;
+}
+
+.hero-main-text{
+    font-size: 50px;
+    font-weight: bold;
+    color: #f9faf8;    
+}
+
+.hero-secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;    
+}
